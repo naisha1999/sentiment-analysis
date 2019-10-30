@@ -1,6 +1,6 @@
 # sentiment-analysis-using-python
 .
-Accuracy is 86 %
+Accuracy using naive approach is 86 %
 
 ## usage
 `imdbReviews.py` generates `*.pkl` files which are the training and testing datasets.
