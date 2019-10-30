@@ -4,9 +4,9 @@ Accuracy is 86 %
 
 ## usage
 `imdbReviews.py` generates `*.pkl` files which are the training and testing datasets.
-First, set the dataset directory in the `Reviews.py`, then run the code.
+run the code.
 ```bash
-python Reviews.py
+python imdbReviews.py
 ```
 
 You will get two `*.pkl` files which are needed for `naive.py`
